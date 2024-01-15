@@ -1,4 +1,11 @@
-# LabelImg-Only-For-YOLO
+<div align="center">
+<h1>
+<b>
+LabelImg-Only-For-YOLO
+</b>
+</h1>
+</div>
+
 This project aims to modify and simplify the functionality of LabelImg, reducing the chance of errors caused by annotators who may not be familiar with the AI domain and may accidentally skip or misinterpret steps. The application exclusively supports the YOLO annotation format, with the added feature of automatic saving. It also automatically sets the annotation storage format and checks whether the input class matches the default value.
 
 ![Example_1](https://github.com/KennyChen880127/LabelImg-Only-For-YOLO/blob/master/example_1.jpg)
